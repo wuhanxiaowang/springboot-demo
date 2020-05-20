@@ -1,0 +1,13 @@
+
+Fsquid:S1148n"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù´úÚ-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‹æÁ“8ß€†øÚ-
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(£èŒÔ8ß€†øÚ-
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(¹ªµ‡8Õ÷šøÚ-
+vsquid:ModifiersOrderCheck!"EReorder the modifiers to comply with the Java Language Specification.(ÁØúõüÿÿÿÿ8ÿõèøÚ-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(”¸àÍ8¾œ§ùÚ-
+ksquid:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–·ûÿÿÿÿ8ß€†øÚ-
+ksquid:S4488c"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(üÅœğÿÿÿÿÿ8Ñ‘ùÚ-
+fsquid:S4488Q"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ìêœÂ8ß€†øÚ-
+nsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ğæÉûÿÿÿÿ8À‘™øÚ-
+nsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(İİÒ¥úÿÿÿÿ8¥°ùÚ-
+Qsquid:S1481S".Remove this unused "forObject" local variable.(˜Ó±Ğşÿÿÿÿ8’¶›ùÚ-

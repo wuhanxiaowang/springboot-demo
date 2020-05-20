@@ -1,0 +1,6 @@
+
+ksquid:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(à‰ºĞúÿÿÿÿ8ÂÌÁôÚ-
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(ğ‹’–8ÂÌÁôÚ-
+¤%squid:RedundantThrowsDeclarationCheck&"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÅÎÅ8é‘‚ûÚ-
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ˆ†§Äùÿÿÿÿ8ÂÌÁôÚ-
+nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(è²íÜşÿÿÿÿ8ÂÌÁôÚ-

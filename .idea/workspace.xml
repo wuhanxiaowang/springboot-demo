@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbb4c1c1-10fc-467e-bc82-b882c95033ab" name="Default" comment="提交定时任务">
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/cloud-alibaba.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/1-课程介绍.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/10-微服务调用--下.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/11-服务治理介绍.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/12-nacos实现服务调用.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/13-负载均衡介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/14-自定义实现负载均衡.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/15-基于ribbon实现负载均衡.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/16-基于fegin实现服务调用.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/17-高并发带来的问题.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/18-服务雪崩效应.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/19-服务容错思路和组件.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/2-系统架构演变-上.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/20-Sentinel使用入门.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/21 Sentinel概念和功能.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/22-流控规则-基本配置.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/23-流控规则-流控模式.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/24-流控规则-流控效果.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/25-降级规则.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/26-热点规则.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/27-授权规则.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/28-系统规则.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/29-自定义规则异常返回.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/3-系统架构演变-中.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/30-@SentinelResource注解讲解.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/31-Sentinel规则持久化.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/32-fegin整合sentinel实现容错.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/33-实现FallbackFactory容错获取异常.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/34-服务网关介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/35-SpringCloud Gateway介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/36-Gateway入门案例.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/37-Gateway从nacos中获取服务信息.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/38-Gateway概念及执行流程.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/39 Gateway内置路由断言.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/4-系统架构演变-下.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/40 Gateway自定义路由断言.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/41-Gateway过滤器简介.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/42-Gateway局部过滤器.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/43-Gateway全局过滤器.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/44-网关限流-路由维度.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/45-网关限流-API分组维度.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/46-链路追踪技术介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/47-Sleuth介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/48-Sleuth使用.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/49-Zipkin介绍和使用.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/5-微服务架构的常见问题和解决思路.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/50-zipkin数据持久化.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/51-MQ介绍..avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/52-RocketMQ环境搭建.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/53-RocketMQ核心架构和概念.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/54-RocketMQ控制台安装.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/55-Java实现消息发送.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/56-Java实现消息消费.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/57-下单消息的发送和接收案例.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/58-消息类型-普通消息.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/59-消息类型-顺序消息.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/6 微服务解决方案.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/60-消息类型-事务消息.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/61-消息消费要注意的细节.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/62-短信服务介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/63-短信服务准备工作.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/64-短信服务Api介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/65-发送下单成功短信案例.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/66-服务配置中心介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/67-nacos config入门案例.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/68-读取nacos配置(自动刷新).avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/69-配置共享.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/7-环境搭建--上.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/70-nacos的几个概念.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/71-分布式事务理论.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/72-分布式事务解决方案-全局事务.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/73-分布式事务解决方案-消息中间件.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/74-分布式事务解决方案-最大努力通知.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/75-分布式事务解决方案-TCC.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/76-Seata介绍.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/77-Seata案例--完成下单和扣除库存代码.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/78-Seata案例-异常模拟.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/79-Seata案例-seata使用.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/8-环境搭建--下.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/80-Seata案例-运行流程分析.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/81-SpringCloud Alibaba Dubbo使用.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiduNetdiskDownload/视频/9-微服务调用--上.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-order/src/main/java/com/laowang/OrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-order/src/main/java/com/laowang/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-order/src/main/java/com/laowang/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-order/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-product/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-product/src/main/java/com/laowang/ProductApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-product/src/main/java/com/laowang/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alibaba/shop-product/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/mavenVersion.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_PLUGINS_DIR$/availables.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_PLUGINS_DIR$/ideajad/ideajad.ipr" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/idea2019IntelliJ IDEA 2019.3.1system/Maven/Indices/Index1/data0/context/segments.gen" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/idea2019IntelliJ IDEA 2019.3.1system/external_build_system/cloud2020.7f9fea2a/modules/order.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/idea2019IntelliJ IDEA 2019.3.1system/external_build_system/cloud2020.7f9fea2a/modules/pay.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/idea2019IntelliJ IDEA 2019.3.1system/external_build_system/cloud2020.7f9fea2a/project/libraries.xml" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-dependencies/2.1.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-dependencies/2.1.1.RELEASE/spring-cloud-alibaba-dependencies-2.1.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-dependencies/2.1.1.RELEASE/spring-cloud-alibaba-dependencies-2.1.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-dependencies/2.2.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-dependencies/2.2.0.RELEASE/spring-cloud-alibaba-dependencies-2.2.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-alibaba-dependencies/2.2.0.RELEASE/spring-cloud-alibaba-dependencies-2.2.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.0.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-2.2.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.0.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-2.2.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.1.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.1.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-2.2.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.1.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-2.2.1.RELEASE.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.1.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-2.2.1.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.1.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-2.2.1.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-sentinel/2.1.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-sentinel/2.1.0.RELEASE/spring-cloud-starter-alibaba-sentinel-2.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-sentinel/2.1.0.RELEASE/spring-cloud-starter-alibaba-sentinel-2.1.0.RELEASE.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-sentinel/2.1.0.RELEASE/spring-cloud-starter-alibaba-sentinel-2.1.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/cloud/spring-cloud-starter-alibaba-sentinel/2.1.0.RELEASE/spring-cloud-starter-alibaba-sentinel-2.1.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/csp/sentinel-core/1.7.2/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/csp/sentinel-core/1.7.2/sentinel-core-1.7.2.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/csp/sentinel-core/1.7.2/sentinel-core-1.7.2.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/csp/sentinel-core/1.7.2/sentinel-core-1.7.2.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/csp/sentinel-core/1.7.2/sentinel-core-1.7.2.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/csp/sentinel-parent/1.7.2/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/csp/sentinel-parent/1.7.2/sentinel-parent-1.7.2.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/com/alibaba/csp/sentinel-parent/1.7.2/sentinel-parent-1.7.2.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/error/error/unknown/error-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/error/error/unknown/error-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/lombok-1.16.18.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/lombok-1.16.18.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR3/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR3/spring-cloud-dependencies-Hoxton.SR3.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Hoxton.SR3/spring-cloud-dependencies-Hoxton.SR3.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.5.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.5.RELEASE/spring-cloud-netflix-core-1.3.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.5.RELEASE/spring-cloud-netflix-core-1.3.5.RELEASE.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.5.RELEASE/spring-cloud-netflix-core-1.3.5.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.3.5.RELEASE/spring-cloud-netflix-core-1.3.5.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-alibaba-nacos-config/unknown/spring-cloud-starter-alibaba-nacos-config-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-alibaba-nacos-discovery/0.9.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-alibaba-nacos-discovery/0.9.0.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-0.9.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-alibaba-nacos-discovery/0.9.0.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-0.9.0.RELEASE.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-alibaba-nacos-discovery/0.9.0.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-0.9.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-alibaba-nacos-discovery/0.9.0.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-0.9.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-alibaba-nacos-discovery/unknown/spring-cloud-starter-alibaba-nacos-discovery-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-alibaba-nacos-discovery/unknown/spring-cloud-starter-alibaba-nacos-discovery-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-feign/unknown/spring-cloud-starter-feign-unknown.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-feign/unknown/spring-cloud-starter-feign-unknown.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.2.0.RELEASE/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.2.0.RELEASE/spring-cloud-starter-openfeign-2.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.2.0.RELEASE/spring-cloud-starter-openfeign-2.2.0.RELEASE.jar.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.2.0.RELEASE/spring-cloud-starter-openfeign-2.2.0.RELEASE.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.2.0.RELEASE/spring-cloud-starter-openfeign-2.2.0.RELEASE.pom.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/ConstantEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/authority/CustomRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/collection/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/design/SingleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/entity/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/exception/ControllerExceptionHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/exception/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/juc/ExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/netty/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/netty/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/reflection/ReflectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/serviceImpl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/serviceImpl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/stream/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/test/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/thread/ExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/thread/PersonBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/thread/QueryPersonTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/thread/ThreadCallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/thread/ThreadRunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/util/CreateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/util/PersonRestAPIUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/commonMapperGeneratorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/MallApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/MallApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/aop/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/aop/MyFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/aop/MyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/aop/MyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/aop/WebControllerAop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/aop/WebControllerAop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/authority/ShiroRealm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/common/ApiResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/common/ApiResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/config/FilterConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/config/FilterConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/config/InterceptorConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/config/InterceptorConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/config/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/config/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/controller/HttpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/controller/HttpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/controller/UmsAdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/controller/ViewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/dao/UmsAdminDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/entity/AttachMent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/entity/ContractDetailResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/entity/UmsAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/entity/UmsAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/exception/BizException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/exception/CommonExceptionAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/job/TaskJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/job/TaskJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/serviceImpl/UmsAdminServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/test/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/test/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/util/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/util/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/util/PasswordHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/util/PasswordHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/util/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/util/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/util/httpClientUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/util/httpClientUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/mall/util/json/JsonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/mall/util/json/JsonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/github/mall/MallApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/github/mall/MallApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/github/mall/MyBatisPlusMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/github/mall/MyBatisPlusMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/aop/MyFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/aop/MyFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/aop/MyInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/aop/MyInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/aop/WebControllerAop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/aop/WebControllerAop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/authority/ShiroRealm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/common/ApiResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/common/ApiResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/config/FilterConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/config/FilterConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/config/InterceptorConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/config/InterceptorConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/config/ShiroConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/config/ShiroConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/controller/HttpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/controller/HttpController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/controller/UmsAdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/controller/ViewController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/dao/UmsAdminDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/entity/AttachMent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/entity/ContractDetailResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/exception/BizException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/exception/CommonExceptionAdvice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/job/TaskJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/job/TaskJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/serviceImpl/UmsAdminServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/test/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/test/ThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/util/PasswordHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/util/PasswordHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/mall/util/json/JsonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/mall/util/json/JsonDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mall-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mall-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.github.mall.MallApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.github.mall.MallApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/github/mall/MallApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/github/mall/MallApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/github/mall/MyBatisPlusMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/github/mall/MyBatisPlusMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建文件夹/readme12.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mall_test$MallApplication.coverage" NAME="MallApplication Coverage Results" MODIFIED="1570604179897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Kotlin Enum" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../java/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\java\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WyFu5AKX3pjkLdIPejQTczqVUM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\mall-test\src\main\resources\templates" />
+      <recent name="E:\project\mall-test\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.mall.entity" />
+      <recent name="com.github.mall.util" />
+      <recent name="com.github.mall.config" />
+      <recent name="com.github.mall" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\mall-test\src\main\resources" />
+      <recent name="E:\project\mall-test\src\main\resources\static" />
+      <recent name="E:\project\mall-test\src\main\java\com\github\mall\common" />
+      <recent name="E:\project\mall-test\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.mall.collection.HashMapDemo" />
+      <module name="mall-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.mall.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.mall.netty.NettyClient" />
+      <module name="mall-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.mall.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.mall.netty.NettyServer" />
+      <module name="mall-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.mall.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.mall.design.SingleDemo" />
+      <module name="mall-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.mall.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.mall.test.TestDemo" />
+      <module name="mall-test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.mall.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.mall.MallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SingleDemo" />
+      <item itemvalue="Application.NettyServer" />
+      <item itemvalue="Application.NettyClient" />
+      <item itemvalue="Application.TestDemo" />
+      <item itemvalue="Application.HashMapDemo" />
+      <item itemvalue="Spring Boot.MallApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashMapDemo" />
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.SingleDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb4c1c1-10fc-467e-bc82-b882c95033ab" name="Default" comment="" />
+      <created>1568267147672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568267147672</updated>
+      <workItem from="1568267152529" duration="15557000" />
+      <workItem from="1568362378062" duration="5892000" />
+      <workItem from="1568594614018" duration="1131000" />
+      <workItem from="1568624559377" duration="51000" />
+      <workItem from="1568702311489" duration="162000" />
+      <workItem from="1568703050488" duration="81000" />
+      <workItem from="1568720232478" duration="4304000" />
+      <workItem from="1568724704978" duration="940000" />
+      <workItem from="1568767615028" duration="43000" />
+      <workItem from="1568886367841" duration="1134000" />
+      <workItem from="1569200698024" duration="1073000" />
+      <workItem from="1569204450822" duration="100000" />
+      <workItem from="1569327080883" duration="2451000" />
+      <workItem from="1569374460518" duration="16360000" />
+      <workItem from="1569745115925" duration="16114000" />
+      <workItem from="1569806835063" duration="8798000" />
+      <workItem from="1570522548705" duration="11783000" />
+      <workItem from="1570586292138" duration="17484000" />
+      <workItem from="1571386900001" duration="3738000" />
+      <workItem from="1580114148349" duration="6379000" />
+      <workItem from="1580181231513" duration="103000" />
+      <workItem from="1580183665924" duration="1257000" />
+      <workItem from="1580198448960" duration="1974000" />
+      <workItem from="1580457854374" duration="96000" />
+      <workItem from="1580458145946" duration="324000" />
+      <workItem from="1580974909771" duration="23000" />
+      <workItem from="1581049024289" duration="2999000" />
+      <workItem from="1581583690934" duration="2712000" />
+      <workItem from="1581660895533" duration="10266000" />
+      <workItem from="1581929466020" duration="71000" />
+      <workItem from="1582078994458" duration="17000" />
+      <workItem from="1582250752836" duration="12648000" />
+      <workItem from="1582337615116" duration="7510000" />
+      <workItem from="1582443249486" duration="7401000" />
+      <workItem from="1582787829854" duration="5434000" />
+      <workItem from="1582852444402" duration="9752000" />
+      <workItem from="1582938454521" duration="11703000" />
+      <workItem from="1583215806593" duration="2173000" />
+      <workItem from="1583458067935" duration="727000" />
+      <workItem from="1583460655124" duration="419000" />
+      <workItem from="1583893787756" duration="5766000" />
+      <workItem from="1584325725683" duration="937000" />
+      <workItem from="1584514605723" duration="864000" />
+      <workItem from="1585040086035" duration="640000" />
+      <workItem from="1585098646814" duration="6228000" />
+      <workItem from="1585186785084" duration="4946000" />
+      <workItem from="1585708628242" duration="3919000" />
+      <workItem from="1586481696539" duration="8206000" />
+      <workItem from="1587522948047" duration="759000" />
+      <workItem from="1587523928855" duration="393000" />
+      <workItem from="1587530805359" duration="209000" />
+      <workItem from="1587532121351" duration="35000" />
+      <workItem from="1587795942797" duration="1916000" />
+      <workItem from="1587798889033" duration="4709000" />
+      <workItem from="1587864603372" duration="389000" />
+      <workItem from="1588993674127" duration="811000" />
+      <workItem from="1589335773462" duration="5679000" />
+      <workItem from="1589552718715" duration="133000" />
+      <workItem from="1589553157689" duration="1657000" />
+      <workItem from="1589978841875" duration="521000" />
+      <workItem from="1589979526155" duration="2116000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交定时任务">
+      <created>1580198541537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580198541537</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交定时任务" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交定时任务" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1589347158595">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="526" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1589347158595" />
+    <state x="429" y="386" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589981642527">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="429" y="386" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.920@0.0.1440.920" timestamp="1589981642527" />
+    <state x="505" y="320" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589980593075">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="505" y="320" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.920@0.0.1440.920" timestamp="1589980593075" />
+    <state x="451" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582447028539">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1582447028539" />
+    <state x="241" y="53" key="CommitChangelistDialog2" timestamp="1589979975424">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="241" y="53" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1589979975424" />
+    <state x="501" y="216" key="FileChooserDialogImpl" timestamp="1589978900764">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1589978900764" />
+    <state width="1397" height="254" key="GridCell.Tab.0.bottom" timestamp="1589363102059">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="254" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1589363102059" />
+    <state width="1397" height="254" key="GridCell.Tab.0.center" timestamp="1589363102059">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="254" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1589363102059" />
+    <state width="1397" height="254" key="GridCell.Tab.0.left" timestamp="1589363102059">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="254" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1589363102059" />
+    <state width="1397" height="254" key="GridCell.Tab.0.right" timestamp="1589363102059">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="254" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1589363102059" />
+    <state width="1397" height="218" key="GridCell.Tab.1.bottom" timestamp="1589363102054">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="218" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1589363102054" />
+    <state width="1397" height="218" key="GridCell.Tab.1.center" timestamp="1589363102054">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="218" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1589363102054" />
+    <state width="1397" height="218" key="GridCell.Tab.1.left" timestamp="1589363102054">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="218" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1589363102054" />
+    <state width="1397" height="218" key="GridCell.Tab.1.right" timestamp="1589363102054">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="218" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1589363102054" />
+    <state width="1397" height="205" key="GridCell.Tab.2.bottom" timestamp="1589342235207">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="205" key="GridCell.Tab.2.bottom/0.0.1440.920@0.0.1440.920" timestamp="1589342235207" />
+    <state width="1397" height="205" key="GridCell.Tab.2.center" timestamp="1589342235206">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="205" key="GridCell.Tab.2.center/0.0.1440.920@0.0.1440.920" timestamp="1589342235206" />
+    <state width="1397" height="205" key="GridCell.Tab.2.left" timestamp="1589342235206">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="205" key="GridCell.Tab.2.left/0.0.1440.920@0.0.1440.920" timestamp="1589342235206" />
+    <state width="1397" height="205" key="GridCell.Tab.2.right" timestamp="1589342235206">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="205" key="GridCell.Tab.2.right/0.0.1440.920@0.0.1440.920" timestamp="1589342235206" />
+    <state x="222" y="103" key="SettingsEditor" timestamp="1589979359418">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1589979359418" />
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1589979525763">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1589979525763" />
+    <state x="517" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589979589548">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="517" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.920@0.0.1440.920" timestamp="1589979589548" />
+    <state x="108" y="163" key="new project wizard" timestamp="1589553296811">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="108" y="163" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1589553296811" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1582446845149">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1582446845149" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

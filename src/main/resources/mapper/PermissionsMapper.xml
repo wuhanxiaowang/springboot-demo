@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.github.mall.dao.PermissionsMapper">
+    <resultMap id="BaseResultMap" type="com.github.mall.entity.Permissions">
+        <id column="id" jdbcType="INTEGER" property="id"/>
+        <result column="permissionsName" jdbcType="VARCHAR" property="permissionsname"/>
+    </resultMap>
+    <sql id="Base_Column_List">
+        id, permissionsName
+    </sql>
+    <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+        select
+        <include refid="Base_Column_List"/>
+        from permissions
+        where id = #{id,jdbcType=INTEGER}
+    </select>
+    <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+        delete from permissions
+        where id = #{id,jdbcType=INTEGER}
+    </delete>
+    <insert id="insert" parameterType="com.github.mall.entity.Permissions">
+        <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+            SELECT LAST_INSERT_ID()
+        </selectKey>
+        insert into permissions (permissionsName)
+        values (#{permissionsname,jdbcType=VARCHAR})
+    </insert>
+    <insert id="insertSelective" parameterType="com.github.mall.entity.Permissions">
+        <selectKey keyProperty="id" order="AFTER" resultType="java.lang.Integer">
+            SELECT LAST_INSERT_ID()
+        </selectKey>
+        insert into permissions
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="permissionsname != null">
+                permissionsName,
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="permissionsname != null">
+                #{permissionsname,jdbcType=VARCHAR},
+            </if>
+        </trim>
+    </insert>
+    <update id="updateByPrimaryKeySelective" parameterType="com.github.mall.entity.Permissions">
+        update permissions
+        <set>
+            <if test="permissionsname != null">
+                permissionsName = #{permissionsname,jdbcType=VARCHAR},
+            </if>
+        </set>
+        where id = #{id,jdbcType=INTEGER}
+    </update>
+    <update id="updateByPrimaryKey" parameterType="com.github.mall.entity.Permissions">
+        update permissions
+        set permissionsName = #{permissionsname,jdbcType=VARCHAR}
+        where id = #{id,jdbcType=INTEGER}
+    </update>
+</mapper>
