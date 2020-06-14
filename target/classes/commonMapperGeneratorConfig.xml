@@ -40,7 +40,7 @@
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
-        <table tableName="permissions"
+        <table tableName="department"
                enableCountByExample="false"
                enableSelectByExample="false"
                enableDeleteByExample="false"
